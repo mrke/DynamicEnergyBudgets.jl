@@ -19,3 +19,7 @@ for multiple models - potentially any organism.
 
 Code is adapted from the original [DEBtool](https://github.com/add-my-pet/DEBtool_M)
 plant model by Bas Kooijman.
+
+## Documentation
+
+- [**LATEST**](https://rafaqz.github.io/DynamicEnergyBudgets.jl/latest/) &mdash; *in-development version of the documentation.*
